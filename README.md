@@ -12,7 +12,7 @@
 
 ## Instructions
 
-
+- [x] Add PM as collaborator and make personal branch
 - For the first project you'll work on the project found in `Project-I-Social-Card`.
 - For the second project you'll work on the project found in `Project-II-Calculator`.
 - Use the design files to build out your User Interfaces.
