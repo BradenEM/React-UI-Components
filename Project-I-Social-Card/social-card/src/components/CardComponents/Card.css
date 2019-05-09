@@ -1,1 +1,37 @@
 /* All styles for your Card Components live here */
+
+.card-links {
+  text-decoration: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin-right: 10px;
+}
+.react-logo {
+  width: 100%;
+  border-radius: 5px 5px 0 0;
+}
+
+.card-content {
+  padding-left: 10px;
+  border: 1px solid gray;
+  border-radius: 0 0 5px 5px;
+}
+
+.card-title {
+  font-weight: bold;
+  color: black;
+}
+
+.card-text {
+  color: black;
+}
+
+.card-link {
+  color: gray;
+}
