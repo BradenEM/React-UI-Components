@@ -18,7 +18,7 @@
 }
 
 .card-content {
-  padding-left: 10px;
+  padding: 0 40px 0 10px;
   border: 1px solid gray;
   border-radius: 0 0 5px 5px;
 }
